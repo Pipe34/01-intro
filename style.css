@@ -1,0 +1,93 @@
+/* ==============================
+   Variables y ajustes generales
+   ============================== */
+:root {
+  --color-bg: #f0f6ff;       /* Fondo azul claro */
+  --color-primary: #1e3a8a;  /* Azul oscuro principal */
+  --color-accent: #2563eb;   /* Azul intermedio para acentos */
+  --color-text: #1e293b;     /* Gris azulado para texto */
+  --max-width: 900px;        /* Ancho máximo del contenido */
+  --radius: 10px;            /* Bordes redondeados */
+  --space: 1rem;             /* Espaciado base */
+  --font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  padding: 0 1rem;
+}
+
+/* ==============================
+   Encabezado
+   ============================== */
+header {
+  background-color: var(--color-primary); /* Azul oscuro */
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  margin-bottom: 0.5rem;
+}
+
+/* ==============================
+   Secciones
+   ============================== */
+section {
+  max-width: var(--max-width);
+  margin: 1.5rem auto;
+  padding: var(--space) 1.5rem;
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  color: var(--color-accent);
+  margin-bottom: 1rem;
+}
+
+/* Listas */
+ul {
+  list-style: square inside;
+  margin-left: 0.5rem;
+}
+
+/* Enlaces */
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ==============================
+   Pie de página
+   ============================== */
+footer {
+  text-align: center;
+  background: var(--color-primary);
+  color: white;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-top-left-radius: var(--radius);
+  border-top-right-radius: var(--radius);
+  font-size: 0.9rem;
+}
