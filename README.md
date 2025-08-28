@@ -1,34 +1,34 @@
-# 🌐 Portafolio – Carlos Felipe Castaño Rodríguez
+# 📌 Portafolio – Carlos Felipe Castaño Rodríguez
 
-Bienvenido a mi portafolio personal. 🚀  
-Aquí encontrarás una muestra de los proyectos y ejercicios que he desarrollado como estudiante de **Ingeniería de Software**.  
-Este repositorio está pensado para mostrar mi aprendizaje, mi progreso y las tecnologías que voy dominando.
+Bienvenido a mi portafolio personal, un espacio donde muestro mis avances como estudiante de **Ingeniería de Software**. Actualmente curso el **tercer semestre** y he trabajado con fundamentos de **HTML, CSS y Python**.
 
 ---
 
 ## 👨‍💻 Sobre mí
-Soy **Carlos Felipe Castaño Rodríguez**, estudiante de **Ingeniería de Software**, actualmente cursando el **tercer semestre**.  
-Hasta el momento, he trabajado en fundamentos de **HTML**, **CSS** y **Python**, con los cuales he realizado prácticas básicas para el desarrollo web y la lógica de programación.
+- 📍 Vivo en **Dosquebradas, Colombia**  
+- 🎓 Estudiante de **Ingeniería de Software** – 3er semestre  
+- 🧑‍💻 Conocimientos básicos en: **HTML, CSS, Python**  
+- 🎯 Interés en crecer en desarrollo web y programación  
+- 📅 Edad: **22 años**
 
 ---
 
-## 📂 Contenido del portafolio
-- **Estructura HTML semántica**: organización clara de páginas web.  
-- **Estilos con CSS**: personalización visual, uso de variables y responsive design.  
-- **Ejercicios en Python**: lógica básica y resolución de problemas.  
+## 🚀 Portafolio en línea
+Puedes visitar mi portafolio aquí 👉 [Ver Portafolio](https://pipe34.github.io/01-intro/)
 
 ---
 
-## 🛠️ Tecnologías utilizadas
-- HTML
-- CSS (con variables y estilos básicos)  
-- Python (nivel inicial)  
-- Git y GitHub para control de versiones  
+## 📂 Tecnologías utilizadas
+- **HTML5** – estructura del proyecto  
+- **CSS3** – estilos personalizados  
+- **Git y GitHub** – control de versiones y despliegue con GitHub Pages  
 
 ---
 
-## 🚀 Cómo visualizar mi portafolio
-1. Clona este repositorio:
-   ```bash
-   git clone https://pipe34.github.io/01-intro/
+## 📬 Contacto
+Si deseas comunicarte conmigo, escríbeme a mi correo:  
+📧 [cf.castano10@ciaf.edu.co](mailto:cf.castano10@ciaf.edu.co)
 
+---
+
+✍️ *Este proyecto fue creado como parte de mis prácticas académicas en desarrollo web.*
