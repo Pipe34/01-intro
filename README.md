@@ -20,8 +20,8 @@ Hasta el momento, he trabajado en fundamentos de **HTML**, **CSS** y **Python**,
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- HTML5  
-- CSS3 (con variables y estilos básicos)  
+- HTML
+- CSS (con variables y estilos básicos)  
 - Python (nivel inicial)  
 - Git y GitHub para control de versiones  
 
@@ -30,5 +30,5 @@ Hasta el momento, he trabajado en fundamentos de **HTML**, **CSS** y **Python**,
 ## 🚀 Cómo visualizar mi portafolio
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/mi-portafolio.git
+   git clone https://pipe34.github.io/01-intro/
 
